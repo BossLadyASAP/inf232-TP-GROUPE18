@@ -1,0 +1,15 @@
+=== RÉSULTATS Q2 - CORRÉLATION ET RÉGRESSION ===
+
+Taille de l'échantillon : 250
+Moyenne FC (bpm) : 72.34
+Écart-type FC (bpm) : 11.38
+Moyenne PAS (mmHg) : 124.99
+Écart-type PAS (mmHg) : 11.36
+
+Coefficient de corrélation (r) : 0.4135
+Coefficient de détermination (R²) : 0.1710
+
+Équation de la droite : PAS = 0.4126 * FC + 95.1374
+
+Nombre d'outliers détectés : 6
+Seuil utilisé pour les outliers : 2 * écart-type = 20.6848
