@@ -17,7 +17,7 @@ Ce dépôt contient le socle du projet de TP INF232, incluant le générateur de
 
 | Nom Complet | Matricule | Tâche |
 |:---|:---|:---|
-| MATAGNE DASSE PRESLIE CHANEL | 23V2294 | Chef de groupe — Générateur de données + code principal (main.py) + coordination |
+| MATAGNE DASSE PRESLIE CHANEL | 23V2294 | Chef de groupe — Générateur de données + coordination |
 | FEUSSI KENMOGNE KLORIAN DAVIS | 24G2220 | Q1 — Statistique univariée (histogramme, boxplot, outliers) |
 | FOKOU FOFOU STEDDY RONEL | 24G2255 | Rédaction rapport Q1 |
 | KARIS ZOGO EMMANUEL | 24G2362 | Q2 — Corrélation et régression linéaire (FCR vs PAS) |
