@@ -1,0 +1,24 @@
+=== RÉSULTATS Q3 - CLUSTERING K-MEANS ===
+
+Taille de l'échantillon : 250
+Variables utilisées : FCR_bpm, PAS_mmHg (standardisées)
+Nombre de clusters (k) : 3
+Score de silhouette : 0.4019
+
+--- Centroïdes (échelle réelle) ---
+Cluster 0 (Profil modéré) : FCR = 80.60 bpm | PAS = 129.95 mmHg
+Cluster 1 (Profil sain) : FCR = 64.61 bpm | PAS = 118.52 mmHg
+Cluster 2 (Profil à risque) : FCR = 76.96 bpm | PAS = 174.42 mmHg
+
+--- Détail des profils ---
+Cluster 0 - Profil modéré : 117 étudiants | FCR moy = 80.60 bpm | PAS moy = 129.95 mmHg | % à risque (Risque=1) = 38.5%
+Cluster 1 - Profil sain : 128 étudiants | FCR moy = 64.61 bpm | PAS moy = 118.52 mmHg | % à risque (Risque=1) = 0.0%
+Cluster 2 - Profil à risque : 5 étudiants | FCR moy = 76.96 bpm | PAS moy = 174.42 mmHg | % à risque (Risque=1) = 100.0%
+
+--- Interprétation ---
+Le clustering K-Means fait apparaitre trois profils physiologiques distincts :
+- Profil sain : FCR et PAS proches des valeurs normales, faible part d'étudiants a risque.
+- Profil modere : valeurs intermediaires, part d'etudiants a risque plus elevee.
+- Profil a risque : FCR et/ou PAS elevees, forte proportion d'etudiants classes a risque.
+Ce resultat est coherent avec l'etiquette 'Risque' du jeu de donnees, sans que celle-ci
+ait ete utilisee pour construire les clusters (apprentissage non supervise).
