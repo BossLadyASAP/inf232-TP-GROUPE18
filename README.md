@@ -15,15 +15,15 @@ Ce dépôt contient le socle du projet de TP INF232, incluant le générateur de
 
 ## Répartition des tâches
 
-| Membre du groupe | Tâche(s) |
-| :--- | :--- |
-| **MATAGNE DASSE PRESLIE CHANEL (Chef)** | Générateur de données + coordination générale |
-| **Feussi Kenmogne Klorian Davis** | Q1 — Statistique univariée (distribution, outliers, graphiques) |
-| **Fokou Fofou Steddy Ronel** | Rédaction rapport Q1 |
-| **Karis Zogo Emmanuel** | Q2 — Corrélation + régression linéaire |
-| **Essila Eko Albert Junior** | Rédaction rapport Q2 |
-| **Fokou Kelefack Keriane Kianelle** | Q3 — Clustering (K-means) |
-| **Kakeu Nguegang Elda** | Rédaction rapport Q3 |
-| **Mbopuwouo Joël** | Q4 — Classification supervisée |
-| **Babine Bambe Aimé** | Rédaction rapport Q4 |
-| **Bopda Waffo Dimitri** | Assemblage final + mise en forme du dossier complet |
+| Nom Complet | Matricule | Tâche |
+|:---|:---|:---|
+| MATAGNE DASSE PRESLIE CHANEL | 23V2294 | Chef de groupe — Générateur de données + code principal (main.py) + coordination |
+| FEUSSI KENMOGNE KLORIAN DAVIS | 24G2220 | Q1 — Statistique univariée (histogramme, boxplot, outliers) |
+| FOKOU FOFOU STEDDY RONEL | 24G2255 | Rédaction rapport Q1 |
+| KARIS ZOGO EMMANUEL | 24G2362 | Q2 — Corrélation et régression linéaire (FCR vs PAS) |
+| ESSILA EKO ALBERT JUNIOR | 24G2760 | Rédaction rapport Q2 |
+| FOKOU KELEFACK KERIANE KIANELLE | 24G2123 | Q3 — Clustering non supervisé (K-Means) |
+| KAKEU NGUEGANG ELDA | 24G2642 | Rédaction rapport Q3 |
+| MBOPUWOUO JOËL | 24H2447 | Q4 — Classification supervisée (Random Forest) |
+| BABINE BAMBE AIME | 23V2213 | Rédaction rapport Q4 |
+| BOPDA WAFFO DIMITRI | 24F2584 | Assemblage final + mise en forme du dossier complet |
